@@ -2,7 +2,7 @@
 
 息づかいまで、書ける尺八。管と息の動きを計算する、尺八の物理モデル音源です。
 
-KomLab 夢想尺八の配布用リポジトリです。本体（体験版）は **[Releases](https://github.com/komlabsupport-dev/muso-shakuhachi/releases/latest)** からダウンロードできます。
+KomLab 夢想尺八の配布用リポジトリです。本体（体験版）は **[Releases](https://github.com/komlabsupport-dev/muso-shakuhachi/releases/latest)** ページの一番下からダウンロードできます。
 
 - **2026年11月27日 発売**（ライセンスは [KomLab ショップ](https://komlab.official.ec/) で販売します）
 - 発売記念価格：14,800円 → **9,800円**（税込・買い切り、2026年12月18日まで）
